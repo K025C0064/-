@@ -12,10 +12,14 @@ main {
     color: white;
 }
 
-.huzisan{
-    background-image: url(/images/富士山.jpg);
+body {
+    background-image: url(../images/富士山.jpg);
     background-size: cover;
     background-position: center bottom;
-    height: 800px;
-    opacity: 0.5;
 }
+
+.huzisan{
+    height: 800px;
+    background: rgba(255,255,255,0.7);
+}
+
