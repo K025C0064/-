@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    padding: 200;
+}
+
+.btn {
+    font-size: 1.5;
+    background-color: rgb(50, 134, 49);
+    color: white;
+}
+
+.huzisan{
+    background-image: url(/images/富士山.jpg);
+    background-size: cover;
+    background-position: center bottom;
+    height: 800px;
+    opacity: 0.5;
+}
